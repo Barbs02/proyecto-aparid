@@ -4,5 +4,5 @@
   src: url("../fonts/Solway-Bold.ttf") format("truetype"), url("../fonts/Solway-ExtraBold.ttf") format("truetype"), url("../fonts/Solway-Light.ttf") format("truetype"), url("../fonts/Solway-Medium.ttf") format("truetype"), url("../fonts/Solway-Regular.ttf") format("truetype");
 }
 h1 {
-  font-family: "Solway";
+  font-family: "Kulim Park", sans-serif;
 }/*# sourceMappingURL=style.css.map */
